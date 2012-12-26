@@ -1,5 +1,5 @@
-sandbox
+Sandbox
 =======
 
-Playground for testing stuff
+Playground for testing stuff.
 
